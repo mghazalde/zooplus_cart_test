@@ -6,7 +6,7 @@
 # How To Use
 1. Clone/Download the repository.
 2. Go to the cloned project folder location.
-3. The test will run on Chrome browser By default. To change browser to FIREFOX or EDGE change the BrowserName in applicationConfig.properties file located in src\test\resources 
+3. The test will run on Chrome browser by default. To change browser to FIREFOX or EDGE change the BrowserName in applicationConfig.properties file located in src\test\resources 
 4. Open cmd from the cloned the cloned project where the pom.xml exists.
 5. Run (mvn test -Dtest="com.zooplus.cart.**") 
 6. The tests will run, browser will start and testcases will be excuted as the below image.
