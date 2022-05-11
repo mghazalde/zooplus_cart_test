@@ -15,8 +15,8 @@
 Browser will not be closed to allow you to check the final state after test.
 
 #BDD Scenarios
--BDD Scenarios can be found in cart.feature file located in src\test\resources
--For BDD Scenarios with minimum order and shipping fees/free delivery condition changes regarding to the subtotal prices and shipping countries (boundary analysis should be applied for better coverage) 
+- BDD Scenarios can be found in cart.feature file located in src\test\resources
+- For BDD Scenarios with minimum order and shipping fees/free delivery condition changes regarding to the subtotal prices and shipping countries (boundary analysis should be applied for better coverage) 
 
 
 
