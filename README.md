@@ -12,7 +12,8 @@
 6. The tests will run, chrome browser will start and testcases will be excuted as the below image
 ![image](https://user-images.githubusercontent.com/102529622/167728586-0f56c32b-8f6b-4ecd-bd92-a033de6778df.png)
 
--Browser will not be closed to allow you to check the final sate on the browser
+Browser will not be closed to allow you to check the final sate on the browser
+
 #BDD Scenarios
 -BDD Scenarios can be found in cart.feature file located in src\test\resources
 -For BDD Scenarios with minimum order and shipping fees/free delivery condition changes regarding to the subtotal prices and shipping countries (boundary analysis should be applied for better coverage) 
